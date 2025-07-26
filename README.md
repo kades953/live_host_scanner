@@ -1,6 +1,6 @@
 # 🕵️‍♂️ Live Host Scanner
 
-Hey! This is a super simple Bash script I put together to scan a local subnet and find which hosts are alive. It's basically a quick `ping` sweep tool — nothing fancy, just fast and functional.
+This is a super simple Bash script I put together to scan a local subnet and find which hosts are alive. It's basically a quick `ping` sweep tool — nothing fancy, just fast and functional.
 
 ## 💡 What It Does
 
